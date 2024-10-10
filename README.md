@@ -1,4 +1,4 @@
-**DATS-C++-WORK**
+**DATS-C++ WORK**
 =====================
 
 This repository contains various C++ projects and exercises completed as part of the DATS program.
